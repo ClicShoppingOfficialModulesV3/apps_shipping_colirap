@@ -15,7 +15,7 @@ http://monsite/myAdmin/index.php?A&Shipping\Colirap
 
 Activate the module in Shipping
 
-link marketplace : https://www.clicshopping.org/forum/files/file/41-apps-shipping-colis-rapid/
+link marketplace : https://www.clicshopping.org/forum/files/file/38-apps-shipping-colis-rapid/
 
 
 ![item](https://github.com/ClicShoppingOfficialModulesV3/apps_shipping_colirap/blob/master/ModuleInfosJson/colirap_shop.png)
